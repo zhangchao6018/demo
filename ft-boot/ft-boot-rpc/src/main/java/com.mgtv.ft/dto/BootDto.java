@@ -7,4 +7,6 @@ package com.mgtv.ft.dto;
  **/
 public class BootDto {
     //AAA
+
+    //BBB
 }
