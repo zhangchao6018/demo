@@ -13,4 +13,8 @@ public class BootDto {
     //CCC
 
     //[master] ok.....
+
+    //[beta] 1
+
+    //[beta] 2
 }
