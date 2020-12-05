@@ -6,4 +6,5 @@ package com.mgtv.ft.dto;
  * @Author: zhangchao
  **/
 public class BootDto {
+    //AAA
 }
